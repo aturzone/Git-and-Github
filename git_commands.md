@@ -1,6 +1,6 @@
 Git Commands
 
-* repo -> repository
+* 'repo' -> repository
 
 * clone -> bring a repo down from the internet (remote repository like Github) to your local machine
 
